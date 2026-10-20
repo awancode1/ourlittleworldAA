@@ -312,8 +312,8 @@ const songs = [
   {
     title: "Panasea",
     artist: "Rumah Sakit",
-    id: "WxkJVvSgCGk",
-    videos: ["WxkJVvSgCGk", "b1ACXHuMmAc"],
+    id: "b1ACXHuMmAc",
+    videos: ["b1ACXHuMmAc"],
   },
   {
     title: "Reckoner",
